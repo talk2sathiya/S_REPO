@@ -1,3 +1,3 @@
 #! /bin/sh
 echo "Hello World!!!"
-echo " Learning GITHub"
+echo " Learning GIT"
